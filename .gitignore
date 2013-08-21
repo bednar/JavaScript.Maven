@@ -4,3 +4,5 @@ target/
 # OS X Files #
 *~
 
+# Intellij Idea Files #
+atlassian-ide-plugin.xml
