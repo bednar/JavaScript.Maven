@@ -1,8 +1,10 @@
+# Idea Files #
+.idea/
+*.iml
+atlassian-ide-plugin.xml
+
 # Maven Files #
 target/
 
 # OS X Files #
 *~
-
-# Intellij Idea Files #
-atlassian-ide-plugin.xml
