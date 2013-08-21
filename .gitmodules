@@ -1,0 +1,21 @@
+[submodule "Underscore.js"]
+	path = Underscore.js
+	url = https://github.com/bednar/Underscore.js.git
+[submodule "JSON2.js"]
+	path = JSON2.js
+	url = https://github.com/bednar/JSON2.js.git
+[submodule "jQuery"]
+	path = jQuery
+	url = https://github.com/bednar/jQuery.git
+[submodule "Backbone.js"]
+	path = Backbone.js
+	url = https://github.com/bednar/Backbone.js.git
+[submodule "Backbone.Wreqr"]
+	path = Backbone.Wreqr
+	url = https://github.com/bednar/Backbone.Wreqr.git
+[submodule "Backbone.BabySitter"]
+	path = Backbone.BabySitter
+	url = https://github.com/bednar/Backbone.BabySitter.git
+[submodule "Backbone.Marionette"]
+	path = Backbone.Marionette
+	url = https://github.com/bednar/Backbone.Marionette.git
