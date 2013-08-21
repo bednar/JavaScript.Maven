@@ -1,1 +1,6 @@
+# Maven Files #
 target/
+
+# OS X Files #
+*~
+
