@@ -19,3 +19,6 @@
 [submodule "Backbone.Marionette"]
 	path = Backbone.Marionette
 	url = https://github.com/bednar/Backbone.Marionette.git
+[submodule "RequireJS"]
+	path = RequireJS
+	url = https://github.com/bednar/RequireJS.git
