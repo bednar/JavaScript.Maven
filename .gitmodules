@@ -22,3 +22,6 @@
 [submodule "RequireJS"]
 	path = RequireJS
 	url = https://github.com/bednar/RequireJS.git
+[submodule "Pure"]
+	path = Pure
+	url = https://github.com/bednar/Pure.git
