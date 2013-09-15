@@ -25,3 +25,6 @@
 [submodule "Pure"]
 	path = Pure
 	url = https://github.com/bednar/Pure.git
+[submodule "Pure2"]
+	path = Pure2
+	url = https://github.com/bednar/Pure.git
