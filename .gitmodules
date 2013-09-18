@@ -28,3 +28,6 @@
 [submodule "Pure2"]
 	path = Pure2
 	url = https://github.com/bednar/Pure.git
+[submodule "Handlebars"]
+	path = Handlebars
+	url = https://github.com/bednar/Handlebars.git
