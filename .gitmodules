@@ -31,3 +31,6 @@
 [submodule "Handlebars"]
 	path = Handlebars
 	url = https://github.com/bednar/Handlebars.git
+[submodule "jade"]
+	path = jade
+	url = https://github.com/bednar/jade.git
